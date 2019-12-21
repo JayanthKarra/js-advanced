@@ -15,3 +15,7 @@ console.log(typeof i);
 i = 'Hello there';
 
 console.log(typeof i);
+
+// boolean
+i = true;
+console.log(typeof i);
