@@ -28,4 +28,9 @@ i = {
 
 console.log(typeof i);
 
-//
+//  function is a type
+
+i = function() {
+  //...
+};
+console.log(typeof i);
