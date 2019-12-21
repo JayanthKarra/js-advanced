@@ -8,3 +8,10 @@ console.log(typeof i);
 i = 1.2587888;
 
 console.log(typeof i);
+
+// string. no characters.
+// in node or in modern browsers,
+//  strings are unicode: https://unicode.org/
+i = 'Hello there';
+
+console.log(typeof i);
