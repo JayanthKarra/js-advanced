@@ -19,3 +19,13 @@ console.log(typeof i);
 // boolean
 i = true;
 console.log(typeof i);
+
+//  object literals
+i = {
+  name: 'Vijay',
+  year: 2019
+};
+
+console.log(typeof i);
+
+//
