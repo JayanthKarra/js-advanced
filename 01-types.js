@@ -33,4 +33,5 @@ console.log(typeof i);
 i = function() {
   //...
 };
+
 console.log(typeof i);
